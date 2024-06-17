@@ -1,0 +1,7 @@
+Class:
+  adults
+    280 training data
+    120 testing data
+  children
+    280 training data
+    120 testing data
